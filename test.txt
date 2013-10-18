@@ -6,3 +6,11 @@ Pull requests work.
 
 ok.  next step.  original prevents edits.  Do git clone of original,
 modify this file, try to put it back.
+=> permission denied.
+Changing permission in original.
+=>  Still denied...  not sure what's going on.
+
+Adding GemKLabrie as collaborator.
+==> That worked.
+
+Resetting edit restriction, but keeping collaborator.
