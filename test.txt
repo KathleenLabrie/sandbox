@@ -1,2 +1,4 @@
 Just trying to figure out how to work with github forks and
 pull requests.
+
+Now how does that edit restriction works?  Does it prevent pull request?
