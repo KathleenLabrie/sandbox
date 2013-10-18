@@ -2,3 +2,7 @@ Just trying to figure out how to work with github forks and
 pull requests.
 
 Now how does that edit restriction works?  Does it prevent pull request?
+Pull requests work.
+
+ok.  next step.  original prevents edits.  Do git clone of original,
+modify this file, try to put it back.
